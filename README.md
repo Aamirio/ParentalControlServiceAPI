@@ -6,12 +6,12 @@ movie id as input. If the customer is able to watch the movie the API indicates 
 # Table of contents
 
 1. [Prerequisites](#Prerequisites)
-2. [Getting started](#Getting started)
-    1. [Download source code](#Download source code)
-    2. [Running the tests](#Running the tests)
-    3. [Building the jar](#Building the jar)
-    4. [Running the API](#Running the jar)
-4. [Using the API](#Using the API)
+2. [Getting started](#Getting-started)
+    1. [Download source code](#Download-source-code)
+    2. [Running the tests](#Running-the-tests)
+    3. [Building the jar](#Building-the-jar)
+    4. [Running the API](#Running-the-jar)
+4. [Using the API](#Using-the-API)
 5. [Feedback](#Feedback)
 
 ## Prerequisites
