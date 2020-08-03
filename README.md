@@ -38,7 +38,7 @@ The following sub-sections explain how to download the source code, run the exis
 * Download the source code locally so you can run the tests and build the jar to run the API
   
 * *Tip:* In your terminal or command console, create a directory where you would like to download the source code and use 
-`git clone https://github.com/Aamirio/ParentalControl.git` or alternatively you can download it as a zip using the 
+`git clone https://github.com/Aamirio/ParentalControlServiceAPI.git` or alternatively you can download it as a zip using the 
 github *Download ZIP* feature in the UI.
 
 ### Running the tests
